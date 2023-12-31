@@ -12,9 +12,9 @@ This project focuses on optimizing Vision Transformer training using GPU acceler
 
 ## Contents
 
-- [CNN](/cnn): Implementation of Convolutional Neural Networks.
-- [Transformer](/transformer): Implementation of the Transformer model.
-- [ViT](/vit): Customized version of the Vision Transformer (ViT) model, based on the [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10) repository.
+- [CNN](cnn.py): Implementation of Convolutional Neural Networks.
+- [Transformer](transformer.py): Implementation of the Transformer model.
+- [ViT](vit.py): Customized version of the Vision Transformer (ViT) model, based on the [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10) repository.
 
 ## Getting Started
 
