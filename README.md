@@ -5,6 +5,8 @@ This repository contains an optimized implementation of Convolutional Neural Net
 ## Authors
 - Jonathan Ledet
 - Dr. Rodrigue Rizk
+- Dr. Dominick Rizk
+- Dr. Ashok Kumar
 
 ## Overview
 
