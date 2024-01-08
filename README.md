@@ -3,10 +3,7 @@
 This repository contains an optimized implementation of Convolutional Neural Networks (CNN), Transformer, and Vision Transformer (ViT) models.
 
 ## Authors
-- Jonathan Ledet
-- Dr. Rodrigue Rizk
-- Dr. Dominick Rizk
-- Dr. Ashok Kumar
+Anonymous during paper submission process.
 
 ## Overview
 
