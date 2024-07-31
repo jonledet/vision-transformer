@@ -1,9 +1,13 @@
 # Optimized Vision Transformer Training using GPU and Multi-threading
 
-This repository contains an optimized implementation of Convolutional Neural Networks (CNN), Transformer, and Vision Transformer (ViT) models.
+This is the official repository for the paper titled, "Optimized Vision Transformer Training using GPU and Multi-threading," published at the IEEE Conference on Artificial Intelligence 2024 (CAI 2024).  This repository contains an optimized implementation of Convolutional Neural Networks (CNN), Transformer, and Vision Transformer (ViT) models.
 
 ## Authors
-Anonymous during paper submission process.
+- Jonathan Ledet
+- Ashok Kumar
+- Dominick Rizk
+- Rodrigue Rizk
+- KC Santosh
 
 ## Overview
 
